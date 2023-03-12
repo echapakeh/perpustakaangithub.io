@@ -1,2 +1,2 @@
 # echapakeh.github.io
-Website for Perpustakaan Kutub Utara
+Website Perpustakaan Kutub Utara
